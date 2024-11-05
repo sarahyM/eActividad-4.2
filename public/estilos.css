@@ -1,3 +1,4 @@
+/* configuracion de colores */
 :root {
     --color-fondo: #f0f0f0;
     --color-texto: #333;
@@ -12,6 +13,7 @@
     --color-rojo: #dc3545;
 }
 
+/* configuracion del tema modo oscuro */
 .modo-oscuro {
     --color-fondo: #1a1a1a;
     --color-texto: #f0f0f0;
