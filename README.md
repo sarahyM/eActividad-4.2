@@ -20,7 +20,7 @@ Una aplicación web que permite buscar y gestionar usuarios de GitHub, desarroll
 ## Instalación
 
 1. Clone este repositorio:
-```git clone [URL-del-repositorio]```
+```git clone https://github.com/sarahyM/eActividad-4.2```
 
 2. Navegue al directorio del proyecto:
 ```cd buscador-github```
